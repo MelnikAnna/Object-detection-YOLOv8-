@@ -1,0 +1,7 @@
+path: 'D:/ai'
+train: images
+val: images
+
+#classes
+names:
+  0: Dali
